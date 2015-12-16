@@ -1,0 +1,18 @@
+{
+    "D": 123,
+    "L": 300,
+    "xlow": -1000,
+    "xhigh": 1000,
+    "wlow": -500,
+    "whigh": 500,
+    "ycut": 0,
+    "tlow": -10,
+    "thigh": 10,
+    "noise": 10,
+    "iters": 10000,
+    "c": 0.01,
+    "freq": 1,
+    "overd": 60,
+    "testportion": 2,
+    "lam": 5.0
+}
